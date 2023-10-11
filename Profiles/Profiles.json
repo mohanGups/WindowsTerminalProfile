@@ -1,0 +1,25 @@
+{"profiles": 
+    {
+        "defaults": 
+        {
+            "font": 
+            {
+                "face": "MesloLGS NF",
+                "size": 11.0
+            }
+        },
+        "list": 
+        [
+            {
+                "bellStyle": "taskbar",
+                "commandline": "<path_to_zshTerminal.bat>",
+                "elevate": false,
+                "guid": "{905b6688-421f-4b02-bc50-1579084e9d5b}",
+                "hidden": false,
+                "icon": "C:\\msys64\\msys2.ico",
+                "name": "Zsh",
+                "startingDirectory": "C:\\msys64\\home\\%USERNAME%"
+            }
+        ]
+    }
+}
